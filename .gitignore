@@ -1,0 +1,30 @@
+media/
+bin/
+env/
+node_modules/
+static/
+vendor/
+
+dump.rdb
+.DS_Store
+.env
+staticfiles
+*.swp
+*.dump
+
+# python
+.vendor
+*.pyc
+.coverage
+htmlcov/
+pytest.ini
+.pytest_cache/
+
+# IDE
+.idea
+*.iml
+.vscode
+
+# Dependencies
+static
+node_modules
